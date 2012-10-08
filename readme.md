@@ -6,9 +6,11 @@ A command line stock quote tool written in python. Can be used for Geektool.
 Installation
 ============
 
-  cd stocks
-  pip install -r requirements.txt
-  python stocks.py stocks.txt
+```bash
+cd stocks
+pip install -r requirements.txt
+python stocks.py stocks.txt
+```
 
 Configuration
 =============
