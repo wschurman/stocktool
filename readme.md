@@ -12,6 +12,9 @@ pip install -r requirements.txt
 python stocks.py stocks.txt
 ```
 
+For Geektool, open the included Geeklet.
+Modify the paths of stocks.py and stocks.txt to the correct location.
+
 Configuration
 =============
 

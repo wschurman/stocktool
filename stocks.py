@@ -1,10 +1,16 @@
-#!/usr/bin/env python
+#! /usr/bin/env python
 
 """ Stock Tool """
 
 import urllib2, optparse
 from threading import Thread
-from bs4 import BeautifulSoup
+
+try:
+  from bs4 import BeautifulSoup
+except ImportError:
+  print ("Could not import BeautifulSoup. "+
+        "Try sourcing your bash_profile for the correct python executable")
+  exit()
 
 __version__ = '0.0.1'
 DEBUG = False
