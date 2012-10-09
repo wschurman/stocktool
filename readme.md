@@ -13,10 +13,9 @@ python stocks.py stocks.txt
 ```
 
 For Geektool, open the included Geeklet.
-Modify the paths of stocks.py and stocks.txt to the correct location.
-Also, change the path to your bash_profile so that the correct python version
-and executable are loaded (the one that executes in the python environment
-with beautifulsoup installed).
+Modify the paths of python, stocks.py and stocks.txt to the correct location.
+Also, make sure the correct python version and executable are loaded
+(the one that executes in the python environment with beautifulsoup installed).
 
 Configuration
 =============
