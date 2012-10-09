@@ -4,7 +4,7 @@
 <dict>
 	<key>Command</key>
 	<string>source ~/.bash_profile &gt; /dev/null;
-python ~/Library/Scripts/stocks/stocks.py ~/Library/Scripts/stocks.txt</string>
+python ~/Library/Scripts/stocks/stocks.py ~/Library/Scripts/stocks/stocks.txt</string>
 	<key>DisplayStatusImage</key>
 	<false/>
 	<key>DropShadow</key>
