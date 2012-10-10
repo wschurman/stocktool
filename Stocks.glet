@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Command</key>
-	<string>/Library/Frameworks/Python.framework/Versions/2.7/bin/python ~/Library/Scripts/stocks/stocks.py ~/Library/Scripts/stocks/stocks.txt</string>
+	<string>/Library/Frameworks/Python.framework/Versions/Current/bin/python ~/Library/Scripts/stocks/stocks.py ~/Library/Scripts/stocks/stocks.txt</string>
 	<key>DisplayStatusImage</key>
 	<false/>
 	<key>DropShadow</key>
